@@ -19,20 +19,20 @@ class ScrapeRequest(BaseModel):
     keywords: list
     columns_to_save: list
     
-dummy_columns_to_save = {
-        "Person": [],
-        "Org": [],
-        "Date": [],
-        "Loc": [],
-        "Misc": [],
-        "Money": [],
-        "Percent": [],
-        "Time": [],
-        "Quantity": [],
-        "Ordinal": [],
-        "Cardinal": [],
-        "Product": []
-    }
+dummy_columns_to_save = [
+        "Person",
+        "Org",
+        "Date",
+        "Loc",
+        "Misc",
+        "Money",
+        "Percent",
+        "Time",
+        "Quantity",
+        "Ordinal",
+        "Cardinal",
+        "Product"
+    ]
 
 @app.post("/process")
 async def process_request(request: ScrapeRequest):

@@ -1,6 +1,8 @@
 import spacy
 from spacy.matcher import PhraseMatcher
 import os
+import re
+# import time
    
 class parser:
     def __init__(self, context_keywords):
@@ -11,7 +13,13 @@ class parser:
         self.matcher.add("CONTEXT_TERMS", context_patterns)
 
     def clean_text(self, text):
-        cleaned_text = ' '.join(text.split())
+        sentences = text.split('.')
+        cleaned_sentences = []
+        for sentence in sentences:
+            words = sentence.split()
+            if len(words) > 1 and not (len(words) < 3 and words[0] == '- '):
+                cleaned_sentences.append(sentence)
+        cleaned_text = ' '.join(re.sub(r'[^A-Za-z0-9., ]+', '', ' '.join(cleaned_sentences)).split())
         return cleaned_text
     
     def filter_relevant_info(self,text):
@@ -59,7 +67,11 @@ class parser:
 
 
 
-# Testing
+# # Testing
 # context_keywords = ["Apple", "iPhone", "stock price"]
 # parser = parser(context_keywords)
+# start_time = time.time()
 # print(parser.parse_data(r"C:\Users\srija\Documents\GitHub\Minor\Server\dataset_20241021_115734.txt"))
+# end_time = time.time()
+
+# print(f"Execution time: {end_time - start_time} seconds")
