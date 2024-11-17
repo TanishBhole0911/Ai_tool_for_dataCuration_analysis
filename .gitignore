@@ -1,0 +1,7 @@
+Server/Scrapping_modules_init/chromedriver-win64
+/venv
+*.pyc
+*.html
+*.svg
+*.csv
+*.txt

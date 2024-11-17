@@ -1,0 +1,357 @@
+[
+    {
+        "text": "David Curry, a renowned AI researcher, works at OpenAI in San Francisco.",
+        "entities": [
+            [0, 11, "PERSON"],
+            [36, 42, "ORG"],
+            [46, 59, "GPE"]
+        ]
+    },
+    {
+        "text": "He started working there in January 2023.",
+        "entities": [
+            [28, 39, "DATE"]
+        ]
+    },
+    {
+        "text": "His annual salary is $120,000, and he spends 50% of his time on AI projects.",
+        "entities": [
+            [21, 28, "MONEY"],
+            [38, 41, "PERCENT"]
+        ]
+    },
+    {
+        "text": "In Q3 2022, Google announced a 30% increase in revenue from its cloud services.",
+        "entities": [
+            [3, 9, "DATE"],
+            [11, 17, "ORG"],
+            [34, 36, "PERCENT"],
+            [50, 56, "MONEY"]
+        ]
+    },
+    {
+        "text": "The 2020 Olympics were held in Tokyo, Japan, and had over 11,000 athletes.",
+        "entities": [
+            [4, 8, "DATE"],
+            [9, 17, "EVENT"],
+            [33, 44, "GPE"],
+            [54, 60, "CARDINAL"]
+        ]
+    },
+    {
+        "text": "Amazon's latest product, Echo Show 10, was launched in October 2021.",
+        "entities": [
+            [0, 6, "ORG"],
+            [20, 32, "PRODUCT"],
+            [48, 60, "DATE"]
+        ]
+    },
+    {
+        "text": "Microsoft signed a deal worth $500 million with the U.S. government in March 2022.",
+        "entities": [
+            [0, 9, "ORG"],
+            [28, 39, "MONEY"],
+            [50, 53, "GPE"],
+            [67, 77, "DATE"]
+        ]
+    },
+    {
+        "text": "Tesla sold 200,000 vehicles in the second quarter of 2021.",
+        "entities": [
+            [0, 5, "ORG"],
+            [11, 17, "CARDINAL"],
+            [37, 50, "DATE"]
+        ]
+    },
+    {
+        "text": "Elon Musk spoke at the World Government Summit in Dubai, UAE.",
+        "entities": [
+            [0, 9, "PERSON"],
+            [23, 48, "EVENT"],
+            [52, 57, "GPE"]
+        ]
+    },
+    {
+        "text": "The NASDAQ Composite Index increased by 1.5% in September 2022.",
+        "entities": [
+            [4, 25, "ORG"],
+            [38, 42, "PERCENT"],
+            [46, 58, "DATE"]
+        ]
+    },
+    {
+        "text": "NASA plans to launch Artemis I to the moon in November 2024.",
+        "entities": [
+            [0, 4, "ORG"],
+            [18, 26, "PRODUCT"],
+            [40, 53, "DATE"]
+        ]
+    },
+    {
+        "text": "The population of India is estimated to be 1.4 billion as of 2023.",
+        "entities": [
+            [19, 24, "GPE"],
+            [46, 55, "CARDINAL"],
+            [63, 67, "DATE"]
+        ]
+    },
+    {
+        "text": "Apple sold 50 million iPhones in the fourth quarter of 2022.",
+        "entities": [
+            [0, 5, "ORG"],
+            [11, 19, "CARDINAL"],
+            [20, 27, "PRODUCT"],
+            [48, 61, "DATE"]
+        ]
+    },
+    {
+        "text": "The average GDP growth rate in the European Union was 2.3% in 2021.",
+        "entities": [
+            [38, 52, "GPE"],
+            [57, 60, "PERCENT"],
+            [64, 68, "DATE"]
+        ]
+    },
+    {
+        "text": "Warren Buffett, CEO of Berkshire Hathaway, is one of the richest people in the world.",
+        "entities": [
+            [0, 14, "PERSON"],
+            [21, 41, "ORG"]
+        ]
+    },
+    {
+        "text": "The New York Times reported a significant increase in online subscriptions in 2023.",
+        "entities": [
+            [4, 20, "ORG"],
+            [80, 84, "DATE"]
+        ]
+    },
+    {
+        "text": "SpaceX launched 60 Starlink satellites in November 2020.",
+        "entities": [
+            [0, 6, "ORG"],
+            [18, 32, "PRODUCT"],
+            [36, 48, "DATE"]
+        ]
+    },
+    {
+        "text": "The Great Recession started in December 2007 and lasted until June 2009.",
+        "entities": [
+            [4, 20, "EVENT"],
+            [31, 43, "DATE"],
+            [62, 71, "DATE"]
+        ]
+    },
+    {
+        "text": "The iPhone 14 Pro, manufactured by Apple, was released in September 2022.",
+        "entities": [
+            [4, 17, "PRODUCT"],
+            [34, 39, "ORG"],
+            [53, 65, "DATE"]
+        ]
+    },
+    {
+        "text": "The United Nations declared October 24 as United Nations Day, celebrated worldwide.",
+        "entities": [
+            [4, 18, "ORG"],
+            [29, 38, "DATE"],
+            [42, 58, "EVENT"]
+        ]
+    },
+    {
+        "text": "The EU implemented GDPR, a data protection law, on May 25, 2018.",
+        "entities": [
+            [4, 6, "ORG"],
+            [19, 23, "LAW"],
+            [53, 65, "DATE"]
+        ]
+    },
+    {
+        "text": "The Eiffel Tower in Paris, France, attracts over 7 million tourists annually.",
+        "entities": [
+            [4, 16, "LOC"],
+            [20, 25, "GPE"],
+            [27, 33, "GPE"],
+            [48, 57, "CARDINAL"]
+        ]
+    },
+    {
+        "text": "Amazon Web Services, a subsidiary of Amazon, is worth approximately $1 trillion.",
+        "entities": [
+            [0, 19, "ORG"],
+            [38, 44, "ORG"],
+            [65, 75, "MONEY"]
+        ]
+    },
+    {
+        "text": "The Nobel Peace Prize in 2020 was awarded to the World Food Programme.",
+        "entities": [
+            [4, 21, "AWARD"],
+            [25, 29, "DATE"],
+            [46, 67, "ORG"]
+        ]
+    },
+    {
+        "text": "The SpaceX Falcon 9 rocket successfully launched on June 30, 2021.",
+        "entities": [
+            [4, 10, "ORG"],
+            [11, 20, "PRODUCT"],
+            [44, 56, "DATE"]
+        ]
+    },
+    {
+        "text": "She bought 1.5 kilograms of apples for $3.50 at a local grocery store.",
+        "entities": [
+            [12, 27, "QUANTITY"],
+            [38, 43, "MONEY"]
+        ]
+    },
+    {
+        "text": "The International Space Station orbits Earth at an altitude of 408 kilometers.",
+        "entities": [
+            [4, 30, "ORG"],
+            [38, 43, "LOC"],
+            [61, 74, "QUANTITY"]
+        ]
+    },
+    {
+        "text": "Tim Cook, CEO of Apple, announced new iPhone models in September 2021.",
+        "entities": [
+            [0, 8, "PERSON"],
+            [14, 17, "ORG"],
+            [22, 27, "ORG"],
+            [39, 45, "PRODUCT"],
+            [49, 61, "DATE"]
+        ]
+    },
+    {
+        "text": "She speaks three languages: English, French, and Mandarin.",
+        "entities": [
+            [17, 20, "CARDINAL"],
+            [22, 29, "LANGUAGE"],
+            [31, 37, "LANGUAGE"],
+            [43, 51, "LANGUAGE"]
+        ]
+    },
+    {
+        "text": "The Berlin Wall fell on November 9, 1989, marking the end of the Cold War.",
+        "entities": [
+            [4, 15, "LOC"],
+            [25, 37, "DATE"],
+            [59, 67, "EVENT"]
+        ]
+    },
+    {
+        "text": "The Apple M1 chip revolutionized the laptop industry in 2020.",
+        "entities": [
+            [4, 9, "ORG"],
+            [10, 14, "PRODUCT"],
+            [46, 50, "DATE"]
+        ]
+    },
+    {
+        "text": "The GDP of the United States increased by 2.5% in the second quarter of 2022.",
+        "entities": [
+            [11, 24, "GPE"],
+            [40, 44, "PERCENT"],
+            [54, 70, "DATE"]
+        ]
+    },
+    {
+        "text": "The Amazon Rainforest spans across nine countries in South America.",
+        "entities": [
+            [4, 20, "LOC"],
+            [33, 37, "CARDINAL"],
+            [47, 61, "LOC"]
+        ]
+    },
+    {
+        "text": "The population of New York City exceeded 8.3 million in 2021.",
+        "entities": [
+            [19, 32, "GPE"],
+            [42, 51, "CARDINAL"],
+            [55, 59, "DATE"]
+        ]
+    },
+    {
+        "text": "Tesla's Model S Plaid can go from 0 to 60 mph in 1.99 seconds.",
+        "entities": [
+            [0, 5, "ORG"],
+            [7, 14, "PRODUCT"],
+            [38, 48, "QUANTITY"]
+        ]
+    },
+    {
+        "text": "The FIFA World Cup 2022 was held in Qatar, with over 1.5 million spectators.",
+        "entities": [
+            [4, 19, "EVENT"],
+            [20, 24, "DATE"],
+            [38, 43, "GPE"],
+            [53, 64, "CARDINAL"]
+        ]
+    },
+    {
+        "text": "She earned her PhD from Stanford University in 2019.",
+        "entities": [
+            [24, 43, "ORG"],
+            [47, 51, "DATE"]
+        ]
+    },
+    {
+        "text": "Pfizer and BioNTech developed a COVID-19 vaccine in record time.",
+        "entities": [
+            [0, 6, "ORG"],
+            [11, 19, "ORG"],
+            [33, 41, "DISEASE"],
+            [42, 49, "PRODUCT"]
+        ]
+    },
+    {
+        "text": "The Mars Rover, developed by NASA, landed on Mars in February 2021.",
+        "entities": [
+            [4, 14, "PRODUCT"],
+            [29, 33, "ORG"],
+            [44, 48, "LOC"],
+            [52, 64, "DATE"]
+        ]
+    },
+    {
+        "text": "She attended the Sundance Film Festival in Utah in January 2022.",
+        "entities": [
+            [18, 40, "EVENT"],
+            [44, 48, "GPE"],
+            [52, 64, "DATE"]
+        ]
+    },
+    {
+        "text": "The iPad Air 5th generation was released by Apple in March 2022.",
+        "entities": [
+            [4, 17, "PRODUCT"],
+            [40, 45, "ORG"],
+            [49, 59, "DATE"]
+        ]
+    },
+    {
+        "text": "They purchased 100 shares of Tesla stock for $75,000.",
+        "entities": [
+            [16, 19, "CARDINAL"],
+            [30, 35, "ORG"],
+            [47, 54, "MONEY"]
+        ]
+    },
+    {
+        "text": "The first human landed on the moon on July 20, 1969.",
+        "entities": [
+            [39, 50, "DATE"]
+        ]
+    },
+    {
+        "text": "Meta Platforms acquired Oculus VR for $2 billion in 2014.",
+        "entities": [
+            [0, 14, "ORG"],
+            [24, 33, "ORG"],
+            [38, 48, "MONEY"],
+            [52, 56, "DATE"]
+        ]
+    }
+]

@@ -1,0 +1,2202 @@
+[
+    [
+        "David Curry, a renowned AI researcher, works at OpenAI in San Francisco.",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "PERSON"
+                ],
+                [
+                    36,
+                    42,
+                    "ORG"
+                ],
+                [
+                    46,
+                    59,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "He started working there in January 2023.",
+        {
+            "entities": [
+                [
+                    28,
+                    39,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "His annual salary is $120,000, and he spends 50% of his time on AI projects.",
+        {
+            "entities": [
+                [
+                    21,
+                    28,
+                    "MONEY"
+                ],
+                [
+                    38,
+                    41,
+                    "PERCENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "In Q3 2022, Google announced a 30% increase in revenue from its cloud services.",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "DATE"
+                ],
+                [
+                    11,
+                    17,
+                    "ORG"
+                ],
+                [
+                    34,
+                    36,
+                    "PERCENT"
+                ],
+                [
+                    50,
+                    56,
+                    "MONEY"
+                ]
+            ]
+        }
+    ],
+    [
+        "The 2020 Olympics were held in Tokyo, Japan, and had over 11,000 athletes.",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "DATE"
+                ],
+                [
+                    9,
+                    17,
+                    "EVENT"
+                ],
+                [
+                    33,
+                    44,
+                    "GPE"
+                ],
+                [
+                    54,
+                    60,
+                    "CARDINAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Amazon's latest product, Echo Show 10, was launched in October 2021.",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "ORG"
+                ],
+                [
+                    20,
+                    32,
+                    "PRODUCT"
+                ],
+                [
+                    48,
+                    60,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Microsoft signed a deal worth $500 million with the U.S. government in March 2022.",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "ORG"
+                ],
+                [
+                    28,
+                    39,
+                    "MONEY"
+                ],
+                [
+                    50,
+                    53,
+                    "GPE"
+                ],
+                [
+                    67,
+                    77,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tesla sold 200,000 vehicles in the second quarter of 2021.",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "ORG"
+                ],
+                [
+                    11,
+                    17,
+                    "CARDINAL"
+                ],
+                [
+                    37,
+                    50,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Elon Musk spoke at the World Government Summit in Dubai, UAE.",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "PERSON"
+                ],
+                [
+                    23,
+                    48,
+                    "EVENT"
+                ],
+                [
+                    52,
+                    57,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The NASDAQ Composite Index increased by 1.5% in September 2022.",
+        {
+            "entities": [
+                [
+                    4,
+                    25,
+                    "ORG"
+                ],
+                [
+                    38,
+                    42,
+                    "PERCENT"
+                ],
+                [
+                    46,
+                    58,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "NASA plans to launch Artemis I to the moon in November 2024.",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "ORG"
+                ],
+                [
+                    18,
+                    26,
+                    "PRODUCT"
+                ],
+                [
+                    40,
+                    53,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The population of India is estimated to be 1.4 billion as of 2023.",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "GPE"
+                ],
+                [
+                    46,
+                    55,
+                    "CARDINAL"
+                ],
+                [
+                    63,
+                    67,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Apple sold 50 million iPhones in the fourth quarter of 2022.",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "ORG"
+                ],
+                [
+                    11,
+                    19,
+                    "CARDINAL"
+                ],
+                [
+                    20,
+                    27,
+                    "PRODUCT"
+                ],
+                [
+                    48,
+                    61,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The average GDP growth rate in the European Union was 2.3% in 2021.",
+        {
+            "entities": [
+                [
+                    38,
+                    52,
+                    "GPE"
+                ],
+                [
+                    57,
+                    60,
+                    "PERCENT"
+                ],
+                [
+                    64,
+                    68,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Warren Buffett, CEO of Berkshire Hathaway, is one of the richest people in the world.",
+        {
+            "entities": [
+                [
+                    0,
+                    14,
+                    "PERSON"
+                ],
+                [
+                    21,
+                    41,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "The New York Times reported a significant increase in online subscriptions in 2023.",
+        {
+            "entities": [
+                [
+                    4,
+                    20,
+                    "ORG"
+                ],
+                [
+                    80,
+                    84,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "SpaceX launched 60 Starlink satellites in November 2020.",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "ORG"
+                ],
+                [
+                    18,
+                    32,
+                    "PRODUCT"
+                ],
+                [
+                    36,
+                    48,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Great Recession started in December 2007 and lasted until June 2009.",
+        {
+            "entities": [
+                [
+                    4,
+                    20,
+                    "EVENT"
+                ],
+                [
+                    31,
+                    43,
+                    "DATE"
+                ],
+                [
+                    62,
+                    71,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The iPhone 14 Pro, manufactured by Apple, was released in September 2022.",
+        {
+            "entities": [
+                [
+                    4,
+                    17,
+                    "PRODUCT"
+                ],
+                [
+                    34,
+                    39,
+                    "ORG"
+                ],
+                [
+                    53,
+                    65,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The United Nations declared October 24 as United Nations Day, celebrated worldwide.",
+        {
+            "entities": [
+                [
+                    4,
+                    18,
+                    "ORG"
+                ],
+                [
+                    29,
+                    38,
+                    "DATE"
+                ],
+                [
+                    42,
+                    58,
+                    "EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The EU implemented GDPR, a data protection law, on May 25, 2018.",
+        {
+            "entities": [
+                [
+                    4,
+                    6,
+                    "ORG"
+                ],
+                [
+                    19,
+                    23,
+                    "LAW"
+                ],
+                [
+                    53,
+                    65,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Eiffel Tower in Paris, France, attracts over 7 million tourists annually.",
+        {
+            "entities": [
+                [
+                    4,
+                    16,
+                    "LOC"
+                ],
+                [
+                    20,
+                    25,
+                    "GPE"
+                ],
+                [
+                    27,
+                    33,
+                    "GPE"
+                ],
+                [
+                    48,
+                    57,
+                    "CARDINAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Amazon Web Services, a subsidiary of Amazon, is worth approximately $1 trillion.",
+        {
+            "entities": [
+                [
+                    0,
+                    19,
+                    "ORG"
+                ],
+                [
+                    38,
+                    44,
+                    "ORG"
+                ],
+                [
+                    65,
+                    75,
+                    "MONEY"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Nobel Peace Prize in 2020 was awarded to the World Food Programme.",
+        {
+            "entities": [
+                [
+                    4,
+                    21,
+                    "AWARD"
+                ],
+                [
+                    25,
+                    29,
+                    "DATE"
+                ],
+                [
+                    46,
+                    67,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "The SpaceX Falcon 9 rocket successfully launched on June 30, 2021.",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "ORG"
+                ],
+                [
+                    11,
+                    20,
+                    "PRODUCT"
+                ],
+                [
+                    44,
+                    56,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "She bought 1.5 kilograms of apples for $3.50 at a local grocery store.",
+        {
+            "entities": [
+                [
+                    12,
+                    27,
+                    "QUANTITY"
+                ],
+                [
+                    38,
+                    43,
+                    "MONEY"
+                ]
+            ]
+        }
+    ],
+    [
+        "The International Space Station orbits Earth at an altitude of 408 kilometers.",
+        {
+            "entities": [
+                [
+                    4,
+                    30,
+                    "ORG"
+                ],
+                [
+                    38,
+                    43,
+                    "LOC"
+                ],
+                [
+                    61,
+                    74,
+                    "QUANTITY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tim Cook, CEO of Apple, announced new iPhone models in September 2021.",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "PERSON"
+                ],
+                [
+                    14,
+                    17,
+                    "ORG"
+                ],
+                [
+                    22,
+                    27,
+                    "ORG"
+                ],
+                [
+                    39,
+                    45,
+                    "PRODUCT"
+                ],
+                [
+                    49,
+                    61,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "She speaks three languages: English, French, and Mandarin.",
+        {
+            "entities": [
+                [
+                    17,
+                    20,
+                    "CARDINAL"
+                ],
+                [
+                    22,
+                    29,
+                    "LANGUAGE"
+                ],
+                [
+                    31,
+                    37,
+                    "LANGUAGE"
+                ],
+                [
+                    43,
+                    51,
+                    "LANGUAGE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Berlin Wall fell on November 9, 1989, marking the end of the Cold War.",
+        {
+            "entities": [
+                [
+                    4,
+                    15,
+                    "LOC"
+                ],
+                [
+                    25,
+                    37,
+                    "DATE"
+                ],
+                [
+                    59,
+                    67,
+                    "EVENT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Apple M1 chip revolutionized the laptop industry in 2020.",
+        {
+            "entities": [
+                [
+                    4,
+                    9,
+                    "ORG"
+                ],
+                [
+                    10,
+                    14,
+                    "PRODUCT"
+                ],
+                [
+                    46,
+                    50,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The GDP of the United States increased by 2.5% in the second quarter of 2022.",
+        {
+            "entities": [
+                [
+                    11,
+                    24,
+                    "GPE"
+                ],
+                [
+                    40,
+                    44,
+                    "PERCENT"
+                ],
+                [
+                    54,
+                    70,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Amazon Rainforest spans across nine countries in South America.",
+        {
+            "entities": [
+                [
+                    4,
+                    20,
+                    "LOC"
+                ],
+                [
+                    33,
+                    37,
+                    "CARDINAL"
+                ],
+                [
+                    47,
+                    61,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "The population of New York City exceeded 8.3 million in 2021.",
+        {
+            "entities": [
+                [
+                    19,
+                    32,
+                    "GPE"
+                ],
+                [
+                    42,
+                    51,
+                    "CARDINAL"
+                ],
+                [
+                    55,
+                    59,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tesla's Model S Plaid can go from 0 to 60 mph in 1.99 seconds.",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "ORG"
+                ],
+                [
+                    7,
+                    14,
+                    "PRODUCT"
+                ],
+                [
+                    38,
+                    48,
+                    "QUANTITY"
+                ]
+            ]
+        }
+    ],
+    [
+        "The FIFA World Cup 2022 was held in Qatar, with over 1.5 million spectators.",
+        {
+            "entities": [
+                [
+                    4,
+                    19,
+                    "EVENT"
+                ],
+                [
+                    20,
+                    24,
+                    "DATE"
+                ],
+                [
+                    38,
+                    43,
+                    "GPE"
+                ],
+                [
+                    53,
+                    64,
+                    "CARDINAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "She earned her PhD from Stanford University in 2019.",
+        {
+            "entities": [
+                [
+                    24,
+                    43,
+                    "ORG"
+                ],
+                [
+                    47,
+                    51,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pfizer and BioNTech developed a COVID-19 vaccine in record time.",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "ORG"
+                ],
+                [
+                    11,
+                    19,
+                    "ORG"
+                ],
+                [
+                    33,
+                    41,
+                    "DISEASE"
+                ],
+                [
+                    42,
+                    49,
+                    "PRODUCT"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Mars Rover, developed by NASA, landed on Mars in February 2021.",
+        {
+            "entities": [
+                [
+                    4,
+                    14,
+                    "PRODUCT"
+                ],
+                [
+                    29,
+                    33,
+                    "ORG"
+                ],
+                [
+                    44,
+                    48,
+                    "LOC"
+                ],
+                [
+                    52,
+                    64,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "She attended the Sundance Film Festival in Utah in January 2022.",
+        {
+            "entities": [
+                [
+                    18,
+                    40,
+                    "EVENT"
+                ],
+                [
+                    44,
+                    48,
+                    "GPE"
+                ],
+                [
+                    52,
+                    64,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The iPad Air 5th generation was released by Apple in March 2022.",
+        {
+            "entities": [
+                [
+                    4,
+                    17,
+                    "PRODUCT"
+                ],
+                [
+                    40,
+                    45,
+                    "ORG"
+                ],
+                [
+                    49,
+                    59,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "They purchased 100 shares of Tesla stock for $75,000.",
+        {
+            "entities": [
+                [
+                    16,
+                    19,
+                    "CARDINAL"
+                ],
+                [
+                    30,
+                    35,
+                    "ORG"
+                ],
+                [
+                    47,
+                    54,
+                    "MONEY"
+                ]
+            ]
+        }
+    ],
+    [
+        "The first human landed on the moon on July 20, 1969.",
+        {
+            "entities": [
+                [
+                    39,
+                    50,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Meta Platforms acquired Oculus VR for $2 billion in 2014.",
+        {
+            "entities": [
+                [
+                    0,
+                    14,
+                    "ORG"
+                ],
+                [
+                    24,
+                    33,
+                    "ORG"
+                ],
+                [
+                    38,
+                    48,
+                    "MONEY"
+                ],
+                [
+                    52,
+                    56,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Elon Musk, the CEO of Tesla, announced plans to build a new factory in Berlin by 2025.",
+        {
+            "entities": [
+                [0, 9, "PERSON"],
+                [18, 22, "ORG"],
+                [66, 72, "GPE"],
+                [76, 80, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Apple's annual revenue crossed $100 billion in Q1 2023.",
+        {
+            "entities": [
+                [0, 5, "ORG"],
+                [30, 42, "MONEY"],
+                [46, 52, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The Eiffel Tower in Paris, France, attracts millions of tourists every year.",
+        {
+            "entities": [
+                [4, 16, "FAC"],
+                [20, 25, "GPE"],
+                [27, 33, "GPE"]
+            ]
+        }
+    ],
+    [
+        "Microsoft acquired LinkedIn in 2016 for $26.2 billion.",
+        {
+            "entities": [
+                [0, 9, "ORG"],
+                [19, 27, "ORG"],
+                [31, 35, "DATE"],
+                [40, 53, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "The Great Fire of London occurred in 1666 and destroyed much of the city.",
+        {
+            "entities": [
+                [4, 19, "EVENT"],
+                [23, 29, "GPE"],
+                [41, 45, "DATE"]
+            ]
+        }
+    ],
+    [
+        "NASA's Mars Rover Perseverance landed successfully on February 18, 2021.",
+        {
+            "entities": [
+                [0, 4, "ORG"],
+                [6, 20, "PRODUCT"],
+                [47, 64, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The GDP of the United States grew by 6.5% in Q2 2021.",
+        {
+            "entities": [
+                [11, 24, "GPE"],
+                [34, 38, "PERCENT"],
+                [42, 49, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The Lord of the Rings trilogy, directed by Peter Jackson, grossed over $2 billion worldwide.",
+        {
+            "entities": [
+                [4, 23, "WORK_OF_ART"],
+                [39, 52, "PERSON"],
+                [67, 75, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "In 2018, the FIFA World Cup was held in Russia.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [12, 16, "ORG"],
+                [17, 27, "EVENT"],
+                [41, 47, "GPE"]
+            ]
+        }
+    ],
+    [
+        "Mount Everest, the highest mountain in the world, is located in Nepal.",
+        {
+            "entities": [
+                [0, 13, "LOC"],
+                [55, 60, "GPE"]
+            ]
+        }
+    ],
+    [
+        "The Nobel Peace Prize was awarded to Malala Yousafzai in 2014.",
+        {
+            "entities": [
+                [4, 19, "EVENT"],
+                [36, 52, "PERSON"],
+                [56, 60, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Jeff Bezos stepped down as Amazon's CEO in July 2021.",
+        {
+            "entities": [
+                [0, 10, "PERSON"],
+                [26, 32, "ORG"],
+                [40, 48, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The iPhone 14 Pro was released by Apple in September 2022.",
+        {
+            "entities": [
+                [4, 15, "PRODUCT"],
+                [34, 39, "ORG"],
+                [43, 55, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Barack Obama served as the 44th President of the United States from 2009 to 2017.",
+        {
+            "entities": [
+                [0, 12, "PERSON"],
+                [28, 44, "TITLE"],
+                [48, 62, "GPE"],
+                [68, 72, "DATE"],
+                [76, 80, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The new Samsung Galaxy S21 Ultra was released in January 2021, retailing at $1,199.",
+        {
+            "entities": [
+                [8, 27, "PRODUCT"],
+                [45, 57, "DATE"],
+                [71, 77, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "On September 20, 2022, SpaceX launched four astronauts aboard the Crew Dragon capsule.",
+        {
+            "entities": [
+                [3, 17, "DATE"],
+                [19, 25, "ORG"],
+                [57, 67, "PRODUCT"]
+            ]
+        }
+    ],
+    [
+        "The Louvre Museum in Paris houses the Mona Lisa, one of the most famous paintings in history.",
+        {
+            "entities": [
+                [4, 18, "ORG"],
+                [22, 27, "GPE"],
+                [41, 50, "WORK_OF_ART"]
+            ]
+        }
+    ],
+    [
+        "Cristiano Ronaldo, a Portuguese footballer, signed a $200 million contract with Al Nassr in 2023.",
+        {
+            "entities": [
+                [0, 17, "PERSON"],
+                [21, 31, "NORP"],
+                [54, 67, "MONEY"],
+                [77, 85, "ORG"],
+                [89, 93, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The COVID-19 pandemic started spreading rapidly in early 2020, causing global lockdowns.",
+        {
+            "entities": [
+                [4, 13, "EVENT"],
+                [42, 51, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Mercedes-Benz unveiled its electric concept car, the EQS, at the IAA Auto Show in Munich, Germany.",
+        {
+            "entities": [
+                [0, 13, "ORG"],
+                [52, 55, "PRODUCT"],
+                [63, 76, "EVENT"],
+                [80, 85, "GPE"],
+                [87, 94, "GPE"]
+            ]
+        }
+    ],
+    [
+        "Mark Zuckerberg founded Facebook in 2004, which later rebranded as Meta in 2021.",
+        {
+            "entities": [
+                [0, 14, "PERSON"],
+                [24, 32, "ORG"],
+                [36, 40, "DATE"],
+                [63, 67, "ORG"],
+                [71, 75, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The Hubble Space Telescope, launched by NASA in 1990, has revolutionized our understanding of the universe.",
+        {
+            "entities": [
+                [4, 26, "PRODUCT"],
+                [39, 43, "ORG"],
+                [47, 51, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The 2019 Rugby World Cup was held in Japan, attracting fans from around the world.",
+        {
+            "entities": [
+                [4, 8, "DATE"],
+                [9, 25, "EVENT"],
+                [40, 45, "GPE"]
+            ]
+        }
+    ],
+    [
+        "Bill Gates, co-founder of Microsoft, is one of the wealthiest individuals in the world, with a net worth exceeding $100 billion.",
+        {
+            "entities": [
+                [0, 10, "PERSON"],
+                [25, 34, "ORG"],
+                [103, 114, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "Tesla's stock price soared by 20% after the announcement of its new Model Y in March 2022.",
+        {
+            "entities": [
+                [0, 5, "ORG"],
+                [28, 32, "PERCENT"],
+                [67, 75, "PRODUCT"],
+                [79, 88, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Queen Elizabeth II reigned over the United Kingdom for 70 years, from 1952 until her passing in 2022.",
+        {
+            "entities": [
+                [0, 17, "PERSON"],
+                [38, 52, "GPE"],
+                [57, 65, "DATE"],
+                [81, 85, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The FIFA Women's World Cup 2023 was hosted by Australia and New Zealand.",
+        {
+            "entities": [
+                [4, 8, "ORG"],
+                [9, 29, "EVENT"],
+                [30, 34, "DATE"],
+                [48, 57, "GPE"],
+                [62, 73, "GPE"]
+            ]
+        }
+    ],
+    [
+        "In December 2022, Goldman Sachs predicted a 10% rise in oil prices for the next quarter.",
+        {
+            "entities": [
+                [3, 15, "DATE"],
+                [17, 30, "ORG"],
+                [48, 52, "PERCENT"],
+                [60, 64, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "The World Health Organization declared the monkeypox outbreak a global health emergency in July 2022.",
+        {
+            "entities": [
+                [4, 30, "ORG"],
+                [45, 54, "DISEASE"],
+                [81, 85, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Mount Fuji, Japan's tallest peak, is a popular destination for climbers and tourists alike.",
+        {
+            "entities": [
+                [0, 10, "LOC"],
+                [12, 17, "GPE"]
+            ]
+        }
+    ],
+    [
+        "The James Webb Space Telescope, launched in December 2021, captured the first image of a distant galaxy.",
+        {
+            "entities": [
+                [4, 29, "PRODUCT"],
+                [41, 55, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The iPhone X was priced at $999 when it launched in November 2017.",
+        {
+            "entities": [
+                [4, 12, "PRODUCT"],
+                [26, 30, "MONEY"],
+                [55, 66, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Serena Williams won her 23rd Grand Slam title at the Australian Open in 2017.",
+        {
+            "entities": [
+                [0, 14, "PERSON"],
+                [31, 42, "EVENT"],
+                [51, 66, "EVENT"],
+                [70, 74, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The Mars rover Curiosity, developed by NASA, has been exploring the red planet since 2012.",
+        {
+            "entities": [
+                [4, 20, "PRODUCT"],
+                [34, 38, "ORG"],
+                [79, 83, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The Amazon Rainforest, located in Brazil, is the largest tropical rainforest in the world.",
+        {
+            "entities": [
+                [4, 21, "LOC"],
+                [34, 40, "GPE"]
+            ]
+        }
+    ],
+    [
+        "In May 2020, the European Union proposed a €750 billion recovery fund to combat the economic effects of COVID-19.",
+        {
+            "entities": [
+                [3, 11, "DATE"],
+                [16, 30, "ORG"],
+                [42, 56, "MONEY"],
+                [117, 125, "EVENT"]
+            ]
+        }
+    ],
+    [
+        "Novak Djokovic defeated Rafael Nadal in the 2021 French Open final, securing his 19th Grand Slam title.",
+        {
+            "entities": [
+                [0, 14, "PERSON"],
+                [25, 37, "PERSON"],
+                [45, 49, "DATE"],
+                [50, 61, "EVENT"],
+                [89, 103, "EVENT"]
+            ]
+        }
+    ],
+    [
+        "The Leaning Tower of Pisa in Italy is one of the most famous architectural landmarks in the world.",
+        {
+            "entities": [
+                [4, 23, "FAC"],
+                [27, 32, "GPE"]
+            ]
+        }
+    ],
+    [
+        "Warren Buffett, the CEO of Berkshire Hathaway, is one of the most successful investors in history.",
+        {
+            "entities": [
+                [0, 14, "PERSON"],
+                [25, 45, "ORG"],
+                [49, 52, "TITLE"]
+            ]
+        }
+    ],
+    [
+        "The European Central Bank raised interest rates by 0.5% in July 2022 to curb inflation.",
+        {
+            "entities": [
+                [4, 26, "ORG"],
+                [47, 51, "PERCENT"],
+                [55, 63, "DATE"]
+            ]
+        }
+    ],
+    [
+        "J.K. Rowling's Harry Potter series has sold over 500 million copies worldwide, making it one of the best-selling book series of all time.",
+        {
+            "entities": [
+                [0, 11, "PERSON"],
+                [14, 27, "WORK_OF_ART"],
+                [44, 57, "CARDINAL"]
+            ]
+        }
+    ],
+    [
+        "Boeing's 787 Dreamliner was first introduced in 2011 and is one of the most fuel-efficient airplanes in the world.",
+        {
+            "entities": [
+                [0, 6, "ORG"],
+                [8, 23, "PRODUCT"],
+                [44, 48, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The 2022 FIFA World Cup was held in Qatar, with Argentina emerging as the champion.",
+        {
+            "entities": [
+                [4, 8, "DATE"],
+                [9, 25, "EVENT"],
+                [39, 44, "GPE"],
+                [51, 60, "GPE"]
+            ]
+        }
+    ],
+    [
+        "Alphabet, Google's parent company, reported a 15% increase in revenue in Q2 2023.",
+        {
+            "entities": [
+                [0, 8, "ORG"],
+                [10, 16, "ORG"],
+                [41, 45, "PERCENT"],
+                [62, 69, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The Sydney Opera House in Australia is a UNESCO World Heritage site and a major tourist attraction.",
+        {
+            "entities": [
+                [4, 21, "FAC"],
+                [25, 34, "GPE"],
+                [40, 58, "ORG"]
+            ]
+        }
+    ],
+    [
+        "In 2021, Pfizer and BioNTech collaborated to develop a COVID-19 vaccine, which was distributed globally.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [8, 14, "ORG"],
+                [19, 26, "ORG"],
+                [53, 61, "EVENT"]
+            ]
+        }
+    ],
+    [
+        "Taylor Swift's album '1989' won the Grammy Award for Album of the Year in 2016.",
+        {
+            "entities": [
+                [0, 12, "PERSON"],
+                [22, 27, "WORK_OF_ART"],
+                [37, 49, "EVENT"],
+                [66, 70, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The SpaceX Falcon 9 rocket successfully launched 60 Starlink satellites into orbit in June 2021.",
+        {
+            "entities": [
+                [4, 10, "ORG"],
+                [11, 20, "PRODUCT"],
+                [46, 53, "PRODUCT"],
+                [82, 90, "DATE"]
+            ]
+        }
+    ],
+    [
+        "McDonald's opened its first restaurant in Russia in 1990, marking a significant moment in post-Cold War history.",
+        {
+            "entities": [
+                [0, 9, "ORG"],
+                [36, 42, "GPE"],
+                [46, 50, "DATE"]
+            ]
+        }
+    ],
+    [
+        "In 2021, the United Nations called for global action on climate change, emphasizing the need for renewable energy sources.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [12, 27, "ORG"],
+                [64, 78, "EVENT"]
+            ]
+        }
+    ],
+    [
+        "The Tokyo Stock Exchange is one of the largest stock markets in Asia, located in Japan.",
+        {
+            "entities": [
+                [4, 24, "ORG"],
+                [67, 72, "GPE"]
+            ]
+        }
+    ],
+    [
+        "The cryptocurrency Bitcoin reached a record high of $64,000 in April 2021.",
+        {
+            "entities": [
+                [18, 25, "PRODUCT"],
+                [55, 62, "MONEY"],
+                [66, 76, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Amazon announced plans to hire 100,000 new workers for its U.S. warehouses in response to the surge in online orders during the COVID-19 pandemic.",
+        {
+            "entities": [
+                [0, 6, "ORG"],
+                [28, 36, "CARDINAL"],
+                [45, 48, "GPE"],
+                [120, 128, "EVENT"]
+            ]
+        }
+    ],
+    [
+        "In February 2021, Tesla bought $1.5 billion worth of Bitcoin, causing a spike in cryptocurrency prices.",
+        {
+            "entities": [
+                [3, 17, "DATE"],
+                [19, 24, "ORG"],
+                [32, 46, "MONEY"],
+                [56, 63, "PRODUCT"]
+            ]
+        }
+    ],
+    [
+        "The Mona Lisa, painted by Leonardo da Vinci, is displayed at the Louvre Museum in Paris.",
+        {
+            "entities": [
+                [4, 13, "WORK_OF_ART"],
+                [26, 42, "PERSON"],
+                [61, 75, "ORG"],
+                [79, 84, "GPE"]
+            ]
+        }
+    ],
+    [
+        "The Broadway musical Hamilton was a huge success, winning 11 Tony Awards in 2016.",
+        {
+            "entities": [
+                [17, 25, "WORK_OF_ART"],
+                [67, 78, "EVENT"],
+                [82, 86, "DATE"]
+            ]
+        }
+    ],
+    [
+        "In November 2020, AstraZeneca reported that its COVID-19 vaccine had an efficacy rate of 70%.",
+        {
+            "entities": [
+                [3, 15, "DATE"],
+                [17, 28, "ORG"],
+                [47, 55, "EVENT"],
+                [90, 94, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "The iPad Pro was released by Apple in March 2020, with a starting price of $799.",
+        {
+            "entities": [
+                [4, 12, "PRODUCT"],
+                [27, 32, "ORG"],
+                [36, 46, "DATE"],
+                [68, 72, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "Spotify, founded by Daniel Ek and Martin Lorentzon, is one of the largest music streaming services.",
+        {
+            "entities": [
+                [0, 7, "ORG"],
+                [18, 27, "PERSON"],
+                [32, 49, "PERSON"]
+            ]
+        }
+    ],
+    [
+        "NASA's Artemis program aims to land the first woman and next man on the Moon by 2024.",
+        {
+            "entities": [
+                [0, 4, "ORG"],
+                [6, 22, "EVENT"],
+                [66, 70, "LOC"],
+                [74, 78, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The Shinkansen, Japan’s high-speed bullet train, connects major cities across the country.",
+        {
+            "entities": [
+                [4, 14, "PRODUCT"],
+                [16, 21, "GPE"]
+            ]
+        }
+    ],
+    [
+        "In 2022, TikTok surpassed 1 billion active users globally, making it one of the most popular social media platforms.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [9, 15, "ORG"],
+                [26, 35, "CARDINAL"]
+            ]
+        }
+    ],
+    [
+        "During World War II, the Battle of Stalingrad was a major turning point in the conflict.",
+        {
+            "entities": [
+                [7, 19, "EVENT"],
+                [25, 44, "EVENT"]
+            ]
+        }
+    ],
+    [
+        "Facebook rebranded to Meta in October 2021, shifting its focus to the metaverse.",
+        {
+            "entities": [
+                [0, 8, "ORG"],
+                [19, 23, "ORG"],
+                [27, 39, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The first iPhone was launched by Apple in 2007, revolutionizing the smartphone industry.",
+        {
+            "entities": [
+                [10, 16, "PRODUCT"],
+                [32, 37, "ORG"],
+                [41, 45, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Mount Everest, located on the border between Nepal and China, is the tallest mountain in the world.",
+        {
+            "entities": [
+                [0, 12, "LOC"],
+                [40, 45, "GPE"],
+                [50, 55, "GPE"]
+            ]
+        }
+    ],
+    [
+        "In 1995, Amazon started as an online bookstore, but it has since grown into a global e-commerce giant.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [9, 15, "ORG"]
+            ]
+        }
+    ],
+    [
+        "The European Space Agency's Gaia mission has been mapping the Milky Way galaxy since 2013.",
+        {
+            "entities": [
+                [4, 27, "ORG"],
+                [30, 34, "EVENT"],
+                [63, 72, "LOC"],
+                [80, 84, "DATE"]
+            ]
+        }
+    ],
+    [
+        "In August 2023, Adidas launched a limited-edition collection of sneakers designed in collaboration with Kanye West.",
+        {
+            "entities": [
+                [3, 14, "DATE"],
+                [16, 22, "ORG"],
+                [91, 102, "PERSON"]
+            ]
+        }
+    ],
+    [
+        "The 2011 earthquake and tsunami in Japan caused a nuclear disaster at the Fukushima Daiichi power plant.",
+        {
+            "entities": [
+                [4, 8, "DATE"],
+                [24, 29, "GPE"],
+                [48, 76, "EVENT"]
+            ]
+        }
+    ],
+    [
+        "The film Avatar, directed by James Cameron, grossed over $2.8 billion worldwide, making it one of the highest-grossing films ever.",
+        {
+            "entities": [
+                [9, 15, "WORK_OF_ART"],
+                [29, 42, "PERSON"],
+                [55, 66, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "On January 1st, 2002, the euro became the official currency of 12 European countries.",
+        {
+            "entities": [
+                [3, 18, "DATE"],
+                [23, 27, "CURRENCY"],
+                [56, 72, "GPE"]
+            ]
+        }
+    ],
+    [
+        "J.P. Morgan Chase is one of the largest investment banks in the world, headquartered in New York.",
+        {
+            "entities": [
+                [0, 17, "ORG"],
+                [78, 86, "GPE"]
+            ]
+        }
+    ],
+    [
+        "In Q4 2023, Apple reported a revenue of $90 billion, marking a 10% increase from the previous quarter.",
+        {
+            "entities": [
+                [3, 10, "DATE"],
+                [12, 17, "ORG"],
+                [36, 46, "MONEY"],
+                [59, 63, "PERCENT"],
+                [80, 97, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The unemployment rate in the United States dropped to 3.9% in September 2023, the lowest since 2019.",
+        {
+            "entities": [
+                [4, 24, "STAT"],
+                [32, 46, "GPE"],
+                [59, 63, "PERCENT"],
+                [67, 79, "DATE"],
+                [95, 99, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Tesla's market cap surpassed $1 trillion in 2021, becoming the sixth company to reach this milestone.",
+        {
+            "entities": [
+                [0, 5, "ORG"],
+                [22, 35, "STAT"],
+                [37, 48, "MONEY"],
+                [52, 56, "DATE"],
+                [80, 87, "CARDINAL"]
+            ]
+        }
+    ],
+    [
+        "The GDP growth rate in India for Q1 2024 is projected to be 6.8%, according to the latest IMF report.",
+        {
+            "entities": [
+                [4, 17, "STAT"],
+                [21, 26, "GPE"],
+                [31, 37, "DATE"],
+                [55, 59, "PERCENT"],
+                [81, 84, "ORG"]
+            ]
+        }
+    ],
+    [
+        "In 2022, Samsung invested over $40 billion in research and development, focusing on AI and semiconductors.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [9, 16, "ORG"],
+                [29, 40, "MONEY"],
+                [44, 64, "STAT"]
+            ]
+        }
+    ],
+    [
+        "Global smartphone shipments declined by 9.7% in Q2 2023, reaching a total of 272 million units, according to IDC.",
+        {
+            "entities": [
+                [7, 32, "STAT"],
+                [47, 55, "DATE"],
+                [69, 80, "CARDINAL"],
+                [109, 112, "ORG"]
+            ]
+        }
+    ],
+    [
+        "Microsoft's Azure cloud services saw a 27% year-over-year growth in revenue in Q3 2023.",
+        {
+            "entities": [
+                [0, 9, "ORG"],
+                [11, 16, "PRODUCT"],
+                [35, 39, "PERCENT"],
+                [60, 67, "STAT"],
+                [79, 87, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The global e-commerce market is expected to reach $6.3 trillion by 2025, growing at a CAGR of 10.4% annually.",
+        {
+            "entities": [
+                [4, 30, "STAT"],
+                [50, 62, "MONEY"],
+                [66, 70, "DATE"],
+                [82, 87, "STAT"],
+                [92, 98, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "In the 2023 fiscal year, Walmart's net income was $13.7 billion, up by 7% compared to the previous year.",
+        {
+            "entities": [
+                [7, 21, "DATE"],
+                [23, 30, "ORG"],
+                [45, 58, "MONEY"],
+                [66, 68, "PERCENT"],
+                [87, 101, "DATE"]
+            ]
+        }
+    ],
+    [
+        "In a study of 2,000 adults, 45% reported feeling stressed at work, according to a report published by Gallup.",
+        {
+            "entities": [
+                [12, 17, "CARDINAL"],
+                [19, 24, "STAT"],
+                [26, 29, "PERCENT"],
+                [90, 96, "ORG"]
+            ]
+        }
+    ],
+    [
+        "The median home price in the U.S. reached $420,000 in Q1 2024, showing a year-over-year increase of 5.3%.",
+        {
+            "entities": [
+                [4, 21, "STAT"],
+                [29, 32, "GPE"],
+                [41, 48, "MONEY"],
+                [52, 58, "DATE"],
+                [85, 89, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "China's manufacturing sector grew by 3.2% in August 2023, driven by higher demand for electronics.",
+        {
+            "entities": [
+                [0, 5, "GPE"],
+                [25, 32, "STAT"],
+                [40, 44, "PERCENT"],
+                [48, 59, "DATE"]
+            ]
+        }
+    ],
+    [
+        "In a 2023 survey, 65% of respondents said they would switch to electric vehicles within the next 5 years.",
+        {
+            "entities": [
+                [6, 10, "DATE"],
+                [12, 15, "PERCENT"],
+                [89, 98, "DATE"]
+            ]
+        }
+    ],
+    [
+        "Netflix added 6.5 million new subscribers in Q3 2023, marking a 12% increase compared to Q2.",
+        {
+            "entities": [
+                [0, 7, "ORG"],
+                [13, 18, "CARDINAL"],
+                [36, 43, "DATE"],
+                [56, 60, "PERCENT"],
+                [81, 83, "DATE"]
+            ]
+        }
+    ],
+    [
+        "During the 2023 holiday season, online sales in the U.S. are expected to exceed $270 billion, a 9.1% increase over 2022.",
+        {
+            "entities": [
+                [11, 15, "DATE"],
+                [43, 46, "GPE"],
+                [67, 78, "MONEY"],
+                [82, 86, "PERCENT"],
+                [95, 99, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The average salary for software engineers in Silicon Valley is now $140,000, up by 6.5% from 2022.",
+        {
+            "entities": [
+                [4, 18, "STAT"],
+                [38, 52, "LOC"],
+                [61, 69, "MONEY"],
+                [77, 81, "PERCENT"],
+                [87, 91, "DATE"]
+            ]
+        }
+    ],
+    [
+        "In 2023, the U.S. consumer price index (CPI) rose by 4.7%, the fastest rate of inflation in over a decade.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [12, 15, "GPE"],
+                [16, 38, "STAT"],
+                [46, 50, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "The Dow Jones Industrial Average dropped by 2.4% in May 2023, its worst monthly performance since 2020.",
+        {
+            "entities": [
+                [4, 30, "STAT"],
+                [42, 46, "PERCENT"],
+                [50, 58, "DATE"],
+                [93, 97, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The global semiconductor market is projected to grow at a CAGR of 8.5% from 2023 to 2030, reaching $1 trillion.",
+        {
+            "entities": [
+                [4, 33, "STAT"],
+                [57, 62, "PERCENT"],
+                [67, 71, "DATE"],
+                [75, 79, "DATE"],
+                [90, 100, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "According to WHO, there were approximately 619 million cases of malaria worldwide in 2021, with a mortality rate of 0.2%.",
+        {
+            "entities": [
+                [13, 16, "ORG"],
+                [35, 46, "CARDINAL"],
+                [60, 67, "STAT"],
+                [81, 85, "DATE"],
+                [112, 116, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "Global energy consumption increased by 4.2% in 2022, with China contributing to 60% of the growth.",
+        {
+            "entities": [
+                [7, 27, "STAT"],
+                [42, 46, "PERCENT"],
+                [50, 54, "DATE"],
+                [60, 65, "GPE"],
+                [82, 85, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "The average life expectancy in Japan reached 84.7 years in 2023, the highest in the world.",
+        {
+            "entities": [
+                [4, 25, "STAT"],
+                [29, 34, "GPE"],
+                [43, 48, "CARDINAL"],
+                [53, 57, "DATE"]
+            ]
+        }
+    ],
+    [
+        "As of Q2 2023, the global electric vehicle market grew by 14%, with over 4 million units sold.",
+        {
+            "entities": [
+                [6, 13, "DATE"],
+                [18, 45, "STAT"],
+                [56, 59, "PERCENT"],
+                [69, 77, "CARDINAL"]
+            ]
+        }
+    ],
+    [
+        "U.S. inflation rose to 6.5% in 2022, marking the highest rate since 1982.",
+        {
+            "entities": [
+                [0, 2, "GPE"],
+                [15, 19, "PERCENT"],
+                [23, 27, "DATE"],
+                [60, 64, "DATE"]
+            ]
+        }
+    ],
+    [
+        "India's smartphone market saw a 12% decline in Q1 2023, with 38 million units shipped.",
+        {
+            "entities": [
+                [0, 5, "GPE"],
+                [23, 40, "STAT"],
+                [44, 48, "PERCENT"],
+                [52, 58, "DATE"],
+                [64, 76, "CARDINAL"]
+            ]
+        }
+    ],
+    [
+        "The global pharmaceutical market is expected to reach $1.5 trillion by 2025, growing at a CAGR of 5.8%.",
+        {
+            "entities": [
+                [4, 35, "STAT"],
+                [49, 60, "MONEY"],
+                [64, 68, "DATE"],
+                [84, 89, "STAT"],
+                [94, 99, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "In 2023, the global AI industry is projected to grow by 37%, reaching a market size of $500 billion.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [12, 30, "STAT"],
+                [50, 54, "PERCENT"],
+                [74, 86, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "Germany's renewable energy share reached 49% in 2022, driven by increased solar and wind capacity.",
+        {
+            "entities": [
+                [0, 7, "GPE"],
+                [29, 33, "PERCENT"],
+                [37, 41, "DATE"]
+            ]
+        }
+    ],
+    [
+        "In 2022, U.S. retail e-commerce sales totaled $1.03 trillion, an increase of 9.6% compared to 2021.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [9, 12, "GPE"],
+                [22, 43, "STAT"],
+                [52, 64, "MONEY"],
+                [80, 84, "PERCENT"],
+                [100, 104, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The median household income in the U.S. was $70,784 in 2021, down 1.2% from the previous year.",
+        {
+            "entities": [
+                [4, 24, "STAT"],
+                [32, 35, "GPE"],
+                [40, 47, "MONEY"],
+                [51, 55, "DATE"],
+                [61, 64, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "Global greenhouse gas emissions rose by 2.3% in 2022, with 40% coming from the energy sector.",
+        {
+            "entities": [
+                [7, 31, "STAT"],
+                [40, 44, "PERCENT"],
+                [48, 52, "DATE"],
+                [58, 61, "PERCENT"],
+                [75, 87, "STAT"]
+            ]
+        }
+    ],
+    [
+        "The European Union's GDP grew by 0.5% in Q2 2023, reflecting a moderate economic recovery.",
+        {
+            "entities": [
+                [4, 18, "ORG"],
+                [20, 23, "STAT"],
+                [32, 36, "PERCENT"],
+                [40, 47, "DATE"]
+            ]
+        }
+    ],
+    [
+        "According to a 2022 report, 72% of U.K. businesses plan to increase AI adoption by 2025.",
+        {
+            "entities": [
+                [15, 19, "DATE"],
+                [21, 24, "PERCENT"],
+                [28, 31, "GPE"],
+                [68, 72, "DATE"]
+            ]
+        }
+    ],
+    [
+        "The U.S. housing market saw a 2.7% decline in Q1 2023, with average home prices falling to $350,000.",
+        {
+            "entities": [
+                [4, 22, "STAT"],
+                [31, 35, "PERCENT"],
+                [39, 45, "DATE"],
+                [83, 91, "MONEY"]
+            ]
+        }
+    ],
+    [
+        "In 2023, the number of mobile internet users in Africa is expected to exceed 500 million, with a growth rate of 7.5%.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [40, 46, "STAT"],
+                [50, 56, "GPE"],
+                [73, 84, "CARDINAL"],
+                [97, 101, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "The U.K. recorded 98,000 new electric vehicle registrations in Q3 2022, a 21% increase from Q2.",
+        {
+            "entities": [
+                [4, 7, "GPE"],
+                [16, 22, "CARDINAL"],
+                [42, 53, "STAT"],
+                [57, 63, "DATE"],
+                [68, 72, "PERCENT"],
+                [81, 83, "DATE"]
+            ]
+        }
+    ],
+    [
+        "In 2023, the global oil production reached 94 million barrels per day, with OPEC contributing 40%.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [12, 33, "STAT"],
+                [41, 58, "QUANTITY"],
+                [64, 68, "ORG"],
+                [82, 85, "PERCENT"]
+            ]
+        }
+    ],
+    [
+        "The global PC market experienced a 15.2% decline in Q4 2023, with 65 million units shipped.",
+        {
+            "entities": [
+                [4, 21, "STAT"],
+                [35, 40, "PERCENT"],
+                [44, 51, "DATE"],
+                [57, 68, "CARDINAL"]
+            ]
+        }
+    ],
+    [
+        "In 2022, U.S. healthcare spending reached $4.3 trillion, representing 18.3% of the GDP.",
+        {
+            "entities": [
+                [3, 7, "DATE"],
+                [9, 12, "GPE"],
+                [20, 41, "STAT"],
+                [50, 61, "MONEY"],
+                [78, 83, "PERCENT"],
+                [91, 94, "STAT"]
+            ]
+        }
+    ],
+    [
+        "Amazon's advertising business generated $38 billion in 2022, accounting for 7% of its total revenue.",
+        {
+            "entities": [
+                [0, 6, "ORG"],
+                [25, 44, "STAT"],
+                [46, 56, "MONEY"],
+                [60, 64, "DATE"],
+                [79, 80, "PERCENT"]
+            ]
+        }
+    ]
+]
+
