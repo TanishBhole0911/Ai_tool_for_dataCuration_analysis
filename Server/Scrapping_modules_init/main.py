@@ -7,14 +7,22 @@ import datetime
 from query import google_search  # Import the google_search function
 from scrapper import scrape_page, save_to_txt, dataset, visited_urls  # Import necessary functions and variables
 
+# Ensure the app instance is correctly defined
 app = FastAPI()
+
 # Define request body model for scraping
 class ScrapeRequest(BaseModel):
     query: str  # Search query
     keyword: list  # Keywords for scraping
 
+cache = {}
+
 @app.post("/scrape")  # /scrape endpoint define karna
 def scrape(request: ScrapeRequest):
+    cache_key = (request.query, tuple(request.keyword))
+    if cache_key in cache:
+        return {"message": "Scraping completed (from cache)", "filename": cache[cache_key]}
+    
     visited_urls.clear()  # Clear visited URLs for each request
     dataset.clear()  # Clear dataset for each request
     max_depth = 3
@@ -29,6 +37,7 @@ def scrape(request: ScrapeRequest):
 
     filename = f"dataset_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
     save_to_txt(dataset, filename)
+    cache[cache_key] = filename
     return {"message": "Scraping completed", "filename": filename}
 
 # # Main.py

@@ -6,14 +6,14 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 import os
+import httpx
 
 # Importing necessary functions from scrapping_modules_init and nlp_backend
-from Scrapping_modules_init.main import scrape as scrape_pages
 from Minor.NLP_backend.main import process_nlp
 import parser
 
 app = FastAPI()
-
+cache = {}
 class ScrapeRequest(BaseModel):
     query: str
     keywords: list
@@ -36,11 +36,37 @@ dummy_columns_to_save = {
 
 @app.post("/process")
 async def process_request(request: ScrapeRequest):
+            # Step 1: Call the scraper API and get filename of scraped data
+    cache_key = (request.query, tuple(request.keywords))
+
+        # Check if the result is already cached
+    if cache_key in cache:
+        print("Returning cached result for:", request)  # Log cache hit
+        return cache[cache_key]  # Return cached result
+
     try:
-        # Step 1: Call the scraper and get filename of scraped data
-        scrape_result = scrape_pages(request)
-        
-        parser_instance = parser.parser(request.keywords)
+        print("Received request:", request)  # Log the incoming request
+            # Step 1: Call the scraper asynchronously and wait for the response
+        url = "http://127.0.0.1:8001/scrape"
+        data = {
+                "query": request.query,
+                "keyword": request.keywords
+            }
+
+        async with httpx.AsyncClient(timeout=None) as client:
+            response = await client.post(url, json=data)
+            print("Response from scraper:", response.status_code, response.text)  # Log the response
+
+            # Step 2: Check if the request was successful
+        print("here")
+        if response.status_code == 200:
+            scrape_result = response.json()  # Expecting a JSON response with a filename
+            print("Scrape successful:", scrape_result)
+        else:
+            print("Error:", response.status_code, response.text)
+            raise HTTPException(status_code=response.status_code, detail=response.text)
+        print("here1")
+        parser_instance = parser(request.keywords)
         parsed_file_path = parser_instance.parse_data(scrape_result['filename'])
         
         # Step 2: Process the scraped data with NLP model using returned filename

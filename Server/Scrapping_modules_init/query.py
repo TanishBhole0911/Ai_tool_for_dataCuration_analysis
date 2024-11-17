@@ -12,7 +12,7 @@ driver = webdriver.Chrome(service=service, options=chromeOptions)
 
 # Google search
 def google_search(query, keywords):
-    search_query = f"{query} {' '.join([f'[{keyword}]' for keyword in keywords])} SEO"
+    search_query = f"{query} {' '.join([f'[{keyword}]' for keyword in keywords])}"
     driver.get("https://www.google.com")
     search_box = driver.find_element(By.NAME, "q")
     search_box.send_keys(search_query)
