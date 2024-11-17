@@ -2,6 +2,7 @@ import spacy
 from spacy.matcher import PhraseMatcher
 import os
 import re
+# import time
    
 class parser:
     def __init__(self, context_keywords):
@@ -66,7 +67,11 @@ class parser:
 
 
 
-# Testing
-context_keywords = ["Apple", "iPhone", "stock price"]
-parser = parser(context_keywords)
-print(parser.parse_data(r"C:\Users\srija\Documents\GitHub\Minor\Server\dataset_20241021_115734.txt"))
+# # Testing
+# context_keywords = ["Apple", "iPhone", "stock price"]
+# parser = parser(context_keywords)
+# start_time = time.time()
+# print(parser.parse_data(r"C:\Users\srija\Documents\GitHub\Minor\Server\dataset_20241021_115734.txt"))
+# end_time = time.time()
+
+# print(f"Execution time: {end_time - start_time} seconds")
